@@ -1,0 +1,5 @@
+*.sdf
+*.suo
+*.opendb
+Bin/
+Build/
