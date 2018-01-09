@@ -57,3 +57,27 @@ http://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/
 Component-oriented design on consoles by Boris Batkin (in Russian)
 http://blog.gamedeff.com/?p=91
 
+Object Systems by Doug Church
+http://chrishecker.com/images/6/6f/ObjSys.ppt
+
+Building a Data-Oriented Entity System (Bitsquid engine) by Niklas Gray
+http://bitsquid.blogspot.com/2014/08/building-data-oriented-entity-system.html
+http://bitsquid.blogspot.com/2014/09/building-data-oriented-entity-system.html
+http://bitsquid.blogspot.com/2014/10/building-data-oriented-entity-system.html
+http://bitsquid.blogspot.com/2014/10/building-data-oriented-entity-system_10.html
+
+Comparison of Doom 1, Quake, and Doom 3 entity references system by Guillaume Chereau
+http://blog.noctua-software.com/entity-references.html
+
+A flexible and expandable architecture for computer games by Jeff Plummer
+https://www.tjhsst.edu/~rlatimer/techlab07/plummer_thesis.pdf
+
+The Components and Systems of Morgan's Raid by Paul Gestwicki
+http://paulgestwicki.blogspot.com/2012/03/components-and-systems-of-morgans-raid.html
+
+Dungeon Siege by Scott Bilas
+https://web.archive.org/web/20150418070828/http://scottbilas.com/games/dungeon-siege
+
+Data Structures for Entity Systems: Contiguous memory by Adam Martin
+http://t-machine.org/index.php/2014/03/08/data-structures-for-entity-systems-contiguous-memory/
+
