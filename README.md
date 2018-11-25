@@ -21,6 +21,11 @@ Key things:
 
 The main difference from other entity-component-system frameworks is ReMap, Fold and Reorder concept. When the system(process) receives notification about a new entity, the process can determine the key for this entity. After the keys of all entities are defined, the entities are updated in the order that is defined by the key.
 
+## Build status
+
+Windows
+![Appveyor build status](https://ci.appveyor.com/api/projects/status/9ptjoyv9bap5445q)
+
 
 ## Useful reading (in random order):
 
