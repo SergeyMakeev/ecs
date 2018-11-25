@@ -25,6 +25,9 @@
 #include <stdint.h>
 #include <assert.h>
 #include <cstring>
+#include <emmintrin.h> 
+#include <intrin.h>
+
 #include "Utils.h"
 
 /* gcc/clang - support
